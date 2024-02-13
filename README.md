@@ -33,3 +33,7 @@ Your ultimate Q&A app dedicated to medical field.
 Tools, techniques & techstacks: PyMed, HayStack.ai, HuggingFaceHub, Mistral-7B-Instruct-v0.2 Model, Caching
 
 GitHub: https://github.com/SrijanShovit/MedBot
+
+## Vector Databases
+
+Medium: https://medium.com/@srijanshovit/primer-on-vector-databases-the-future-01e806a440ff
