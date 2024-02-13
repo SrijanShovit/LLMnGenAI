@@ -36,4 +36,4 @@ GitHub: https://github.com/SrijanShovit/MedBot
 
 ## Vector Databases
 
-Medium: https://medium.com/@srijanshovit/primer-on-vector-databases-the-future-01e806a440ff
+Blog: https://medium.com/@srijanshovit/primer-on-vector-databases-the-future-01e806a440ff
