@@ -1,5 +1,9 @@
 This repo is a one-place record of all my projects,blogs or any other online material work related to my learnings in the domain of LLM and Generative AI.😎
 
+## Fine-tuning LLMs
+
+Blog: https://medium.com/@srijanshovit/lets-sharpen-the-ai-knife-76cca3be9378
+
 ## Vector Databases
 
 Blog: https://medium.com/@srijanshovit/primer-on-vector-databases-the-future-01e806a440ff
